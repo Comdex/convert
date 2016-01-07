@@ -1,4 +1,3 @@
-// encode project main.go
 package main
 
 import (
